@@ -21,6 +21,7 @@ namespace UnaPruebaMas
         {
             int num;
 
+            //prueba de usuario 2
             num = int.Parse(tbIntroducir.Text);
 
             tbRESULTADO.Text = num.ToString();
