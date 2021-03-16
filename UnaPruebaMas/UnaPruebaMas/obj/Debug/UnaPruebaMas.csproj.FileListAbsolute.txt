@@ -8,3 +8,13 @@ C:\Users\Lau 2019\Source\Repos\JMF1DAW1\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\o
 C:\Users\Lau 2019\Source\Repos\JMF1DAW1\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.csproj.CoreCompileInputs.cache
 C:\Users\Lau 2019\Source\Repos\JMF1DAW1\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.exe
 C:\Users\Lau 2019\Source\Repos\JMF1DAW1\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.pdb
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\bin\Debug\UnaPruebaMas.exe.config
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\bin\Debug\UnaPruebaMas.exe
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\bin\Debug\UnaPruebaMas.pdb
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.csprojAssemblyReference.cache
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.Form1.resources
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.Properties.Resources.resources
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.csproj.GenerateResource.cache
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.csproj.CoreCompileInputs.cache
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.exe
+C:\Users\LauDAW\Source\Repos\JMF1DAW2\UltimaPrueba\UnaPruebaMas\UnaPruebaMas\obj\Debug\UnaPruebaMas.pdb
